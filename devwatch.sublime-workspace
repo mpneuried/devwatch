@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"dea",
+				"deactivatetimeout"
+			],
+			[
+				"res",
+				"_createRoutes"
+			],
+			[
+				"stu",
+				"studios"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"new",
+				"newToken"
+			],
+			[
+				"tre",
+				"trel"
+			],
+			[
+				"idx",
+				"idx-1"
+			],
+			[
+				"re",
+				"req	require"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"no",
+				"not-found"
+			],
+			[
+				"th",
+				"thridparty_id"
+			],
+			[
+				"st",
+				"statusCode"
+			],
+			[
+				"c",
+				"Cnf"
+			],
+			[
+				"spli",
+				"splice"
+			],
+			[
+				"trainingi",
+				"trainingitem_id"
+			],
+			[
+				"jso",
+				"jsonPower"
+			],
+			[
+				"jsonSe",
+				"jsonServo"
+			],
+			[
+				"tra",
+				"trainingplan_id"
+			],
+			[
+				"hu",
+				"hour"
+			],
+			[
+				"start",
+				"startdate"
+			],
+			[
+				"h",
+				"httpLogIP"
+			],
+			[
+				"par",
+				"parallel"
+			],
+			[
+				"sele",
+				"selects"
+			],
+			[
+				"se",
+				"sections"
+			],
+			[
+				"er",
+				"errObj"
+			],
+			[
+				"node",
+				"node_id"
+			],
+			[
+				"R_",
+				"R_TRAINING_DEVICE_LOGS"
+			],
+			[
+				"toke",
+				"tokenObj"
+			],
+			[
+				"pl",
+				"plan_id"
+			],
+			[
+				"tok",
+				"tokenObj"
+			],
+			[
+				"curr",
+				"currplan"
+			],
+			[
+				"plan",
+				"plan_version"
+			],
+			[
+				"to",
+				"tokenObj"
+			],
+			[
+				"el",
+				"elForm"
+			],
+			[
+				"dev",
+				"deviceaddress"
+			],
+			[
+				"set",
+				"setPath"
+			],
+			[
+				"j",
+				"jsonSettings"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"else",
+				"elementSettings"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"mult",
+				"multi"
+			],
+			[
+				"redi",
+				"redisClient"
+			],
+			[
+				"lo",
+				"logc"
+			],
+			[
+				"p",
+				"parse"
+			],
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"tr",
+				"training"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"stud",
+				"studio_id"
+			],
+			[
+				"margin",
+				"margin: margin: T R B L"
+			],
+			[
+				"is",
+				"isConnected"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Coffeescript/Commands/CoffeeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"the",
+				"Themr: Default"
+			],
+			[
+				"th",
+				"Themr: Soda Dark Refined"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"The",
+				"Themr: Nil"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"For",
+				"Format: Javascript"
+			],
+			[
+				"sho",
+				"Show TODOs in project and open files"
+			],
+			[
+				"show",
+				"Show TODOs in project and open files"
+			],
+			[
+				"shoe",
+				"Show TODOs in project and open files"
+			],
+			[
+				"sh",
+				"Show TODOs in project and open files"
+			],
+			[
+				"sho	",
+				"Show TODOs in project and open files"
+			],
+			[
+				"how",
+				"Show TODOs in project and open files"
+			],
+			[
+				"Show",
+				"Show TODOs in project and open files"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Html Export: Current File"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 436.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mathiaspeter/Sites/milonst/static/js/studio/users/masterdata.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/user",
+		"/Users/mathiaspeter/Sites/milonst/static/js/studio/users/app.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/templates/milon.care.base.soy",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/user.styl",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/menu.styl",
+		"/Users/mathiaspeter/Sites/milonst/static/js/router.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/messages/messages_detail.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/general.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/milon.care.styl",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/styleguide.styl",
+		"/Users/mathiaspeter/Sites/milonst/static/js/templates/milon.care.users.soy",
+		"/Users/mathiaspeter/Sites/milonst/static/js/plugins.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/globals.styl",
+		"/Users/mathiaspeter/Sites/milonst/static/js/templates/milon.modules.soy",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/studio-api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/apitunnel.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/index.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/messages/messagesapp.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/studio/studio/settings.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/modernizr.js",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/base-api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/deviceapi_runner.coffee",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/mathiaspeter/Sites/milonst/static/js/studio.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/backbone.localstorage.js",
+		"/Users/mathiaspeter/Sites/milonst/static/js/studio/studio/app.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/user.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/general.js",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/bootstrap.js",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/users-api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/basics.styl",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/apibase.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/jquery-ui.css",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/users.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/milon.care.css",
+		"/Users/mathiaspeter/Sites/milonst/config_care.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/login.coffee",
+		"/Users/mathiaspeter/Sites/milon_modules/lib/modelfactory.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/auth-api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/main.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/templates/milon.care.base_en_us.js",
+		"/Users/mathiaspeter/Sites/milonst/node_modules/milon-modules/lib/modelfactory.coffee",
+		"/Users/mathiaspeter/Sites/milonst/server.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/apibase.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/static/web/js/milon.mobile.login.coffee",
+		"/Users/mathiaspeter/Sites/milonst/package.json",
+		"/Users/mathiaspeter/Sites/milonst/server.js",
+		"/Users/mathiaspeter/Sites/milonst/config.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/milon.care.login.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/require.js",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/messages-api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/bootstrap/less/bootstrap.less",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/bootstrap/less/sprites.less",
+		"/Users/mathiaspeter/Sites/milonst/static/js/studio/users/usersapp.coffee",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/User/CoffeeScript.sublime-settings",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/mathiaspeter/Sites/milonst/static/js/index.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/start.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/jquery.js",
+		"/Users/mathiaspeter/Sites/milonst/static/js/app.coffee",
+		"/Users/mathiaspeter/Sites/milonst/node_modules/soyer/lib/soyer/soyer.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/care/api-auth.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/baseapi.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/login.js",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Widgets.stTheme",
+		"/Users/mathiaspeter/Sites/mymilon/static/web/js/templates/languages/language_milon.mymilon_en-us.xlf",
+		"/Users/mathiaspeter/Sites/mymilon/static/web/js/templates/languages/language_milon.mymilon_de-de.xlf",
+		"/Users/mathiaspeter/Sites/milonst/api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/css/_src/bootstrap/less/variables_milon.less",
+		"/Users/mathiaspeter/Sites/milonst/node_modules/soyer/lib/soyer/soyer.js",
+		"/Users/mathiaspeter/Sites/milonst/static/js/milon.mobile.login.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/templatefactory.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/static/web/css/_src/milon.mobile.styl",
+		"/Users/mathiaspeter/Library/Application Support/Sublime Text 2/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/Users/mathiaspeter/Sites/milonst/static/css/base.styl",
+		"/Users/mathiaspeter/Sites/milonst/views/admin.ejs",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/moment.js",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/modernizr-1.7.min.js",
+		"/Users/mathiaspeter/Sites/milonst/views/admin_back.ejs",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/backbone.js",
+		"/Users/mathiaspeter/Sites/milonst/static/js/libs/socketclient.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/device_api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/care_access.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/helper.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/config_mymilon.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/calc_plan.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/care_plan_calendar.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/deviceapi_simulator.coffee",
+		"/Users/mathiaspeter/Sites/milonst/static/html/snippets/users/plans/devicesettingview.ejs",
+		"/Users/mathiaspeter/Sites/milonst/modules/deviceapi.js",
+		"/Users/mathiaspeter/Sites/milonst/modules/deviceapi.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/care_base.coffee",
+		"/Users/mathiaspeter/Sites/milonst/modules/api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/deviceapi_base.coffee",
+		"/Users/mathiaspeter/Sites/milonst/Rohdaten/device-api-test/devapi_test.coffee",
+		"/Users/mathiaspeter/Sites/milonst/Rohdaten/convertsettings/index.html",
+		"/Users/mathiaspeter/Sites/milonst/Rohdaten/convertsettings/index_exp.html",
+		"/Users/mathiaspeter/Library/Application Support/Mou/CSS/GitHub.css",
+		"/Users/mathiaspeter/Sites/milonst/tests/_incl/deviceapi_base.js",
+		"/Users/mathiaspeter/Sites/milonst/tests/user_api.coffee",
+		"/Users/mathiaspeter/Sites/milonst/deviceapi_endpoint.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/auth.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/package.json",
+		"/Users/mathiaspeter/Sites/milonst/node_modules/connect-memcached/lib/connect-memcached.js",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/index.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/test/mymilon_api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/apitunnel.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/user-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/studionews-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/messages-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/apibase.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/reads-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/reads-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/node_modules/simple-dynamo/node_modules/dynamo/lib/Request.js",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/messages-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/studionews-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/index.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/read-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/README.md",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/apibase.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/auth/apikeys-api.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/apicrud_dynamo.coffee",
+		"/Users/mathiaspeter/Sites/mymilon/modules/work/apicrud.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/mathiaspeter/Sites/milonst/static/js, *.coffee",
+			"/Users/mathiaspeter/Sites/milonst/static/css/_src",
+			"/Users/mathiaspeter/Sites/milonst/static/css/_src/slider",
+			"/Users/mathiaspeter/Sites/milonst/static/css/_src/bootstrap/less",
+			"/Users/mathiaspeter/Sites/milonst/static/js, *.coffee",
+			"/Users/mathiaspeter/Sites/milonst/static/js",
+			"/Users/mathiaspeter/Sites/mymilon/static/web",
+			"/Users/mathiaspeter/Sites/milonst/static/css/_src",
+			"/Users/mathiaspeter/Sites/milonst/modules",
+			"/Users/mathiaspeter/Sites/mymilon/modules/work, *.coffee",
+			"/Users/mathiaspeter/Sites/mymilon/modules/work",
+			"/Users/mathiaspeter/Sites/mymilon/modules",
+			"/Users/mathiaspeter/Sites/mymilon/test/, *.coffee",
+			"/Users/mathiaspeter/Sites/mymilon/modules/, *.coffee",
+			"/Users/mathiaspeter/Sites/mymilon/node_modules/mocha/lib",
+			"/Users/mathiaspeter/Sites/mymilon/modules/work",
+			"/Users/mathiaspeter/Sites/mymilon/modules",
+			"/Users/mathiaspeter/Sites/mymilon/modules, *.coffee",
+			"/Users/mathiaspeter/Sites/mymilon,-/Users/mathiaspeter/Sites/mymilon/mode_modules,*.coffee",
+			"/Users/mathiaspeter/Sites/mymilon, *.coffee, -node_modules/",
+			"/Users/mathiaspeter/Sites/mymilon,*.coffee,-node_modules",
+			"/Users/mathiaspeter/Sites/mymilon,*.coffee",
+			"/Users/mathiaspeter/Sites/milonst/modules",
+			"/Users/mathiaspeter/Sites/milonst",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee",
+			"/Users/mathiaspeter/Sites/milonst/",
+			"/Users/mathiaspeter/Sites/milonst/static/html/snippets/users/plans",
+			"/Users/mathiaspeter/Sites/milonst/modules, *.coffee",
+			"/Users/mathiaspeter/Sites/milonst/modules",
+			"/Users/mathiaspeter/Sites/milonst/static",
+			"/Users/mathiaspeter/Sites/milonst/, *.coffee",
+			"/Users/mathiaspeter/Sites/milonst/static/js",
+			"/Users/mathiaspeter/Sites/milonst/static/html/snippets",
+			"<open files>",
+			"/Users/mathiaspeter/Sites/milonst/,-/node_modules,-*.json",
+			"/Users/mathiaspeter/Sites/milonst/,-/node_modules,-*.json,-*.js,-*.html",
+			"/Users/mathiaspeter/Sites/milonst/,-/node_modules,-*.json,-*.js",
+			"/Users/mathiaspeter/Sites/milonst/,-/node_modules,-*.json",
+			"/Users/mathiaspeter/Sites/milonst/,-/node_modules",
+			"/Users/mathiaspeter/Sites/milonst/",
+			"/Users/mathiaspeter/Sites/milonst/,*.styl, *.coffee, *.ejs",
+			"/Users/mathiaspeter/Sites/milonst/static/,*.styl, *.coffee, *.ejs",
+			"/Users/mathiaspeter/Sites/milonst/static/css,*.styl",
+			"/Users/mathiaspeter/Sites/milonst/static/css",
+			"/Users/mathiaspeter/Sites/milonst/static/,*.coffee,*.ejs",
+			"/Users/mathiaspeter/Sites/milonst/static/,*.coffee",
+			"/Users/mathiaspeter/Sites/milonst/static/*.coffee",
+			"/Users/mathiaspeter/Sites/milonst/static/",
+			"/Users/mathiaspeter/Sites/milonst/static/html/snippets/users/plans",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee,*.ejs,*.styl",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee,*.ejs,*.stylus",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee,*.ejs, *.stylus",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee,*.ejs",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee, *.ejs",
+			"/Users/mathiaspeter/Sites/milonst,*.coffee",
+			"/Users/mathiaspeter/Sites/milonst",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"console",
+			"city",
+			"zip",
+			"user",
+			"consl",
+			"studio",
+			"StudioSettings",
+			"studio",
+			"studioLoaded",
+			"StudioHead",
+			"_coll",
+			")\n",
+			"@get",
+			"@get ",
+			"16",
+			"32",
+			"height=\"32\"",
+			"width=\"32\"",
+			"h4",
+			"h1",
+			"32",
+			"console",
+			"SetLastUser",
+			"event",
+			"resutlEvent",
+			"val ",
+			"val",
+			"mod",
+			"    ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"mod",
+			"localstorage",
+			"searchEvent",
+			"on",
+			"_activate",
+			"param",
+			"textcolor_black",
+			"arrow_box",
+			":",
+			"user-image",
+			"{param value",
+			"footer",
+			"styleguide-",
+			"styleguide-navigation",
+			" size",
+			" is ",
+			"is",
+			"\"",
+			"Milon.bucket.get",
+			"getStudio",
+			"_renderCount",
+			"UsersApp",
+			"push",
+			"app.navi",
+			"renderNavi",
+			"32",
+			"$image",
+			"renderNavi",
+			"#user",
+			"user",
+			"_getId",
+			"_uid",
+			"users",
+			"_uids",
+			"reads",
+			"user",
+			"user_nav",
+			"renderContent",
+			"()",
+			"image",
+			"length",
+			"'",
+			"@_box",
+			"event",
+			"_startSearch",
+			"username",
+			"_searchname",
+			"  ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"_",
+			"@e ",
+			"	_",
+			"Milon",
+			"console",
+			"NewsModel",
+			"_uids",
+			"_query.id",
+			"unauthorized",
+			"messages",
+			"_find",
+			"hover",
+			"html_index",
+			"index",
+			"html_index",
+			"getValue",
+			"defaults",
+			"basePath",
+			"History",
+			"Router",
+			"navigate",
+			"getMenuData",
+			"rootView",
+			"index",
+			"studioname",
+			".js",
+			" =",
+			"onScriptLoad",
+			"getScriptData",
+			"load",
+			"scripts",
+			"'",
+			"langMapping",
+			"_",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"cdn.milon.com",
+			"\\t",
+			"",
+			"*$&*",
+			"",
+			"it '",
+			"\\n",
+			"\\r",
+			"\\t",
+			"_.string.strRight",
+			"_.string.strLeft",
+			"_.string.trim",
+			"",
+			", ",
+			"\\t#     # ",
+			"\\t#     #",
+			"",
+			"  ",
+			"	#       #",
+			"# ",
+			"",
+			"\\t",
+			" ",
+			"\\t",
+			"= ",
+			"",
+			"navigate",
+			"reset",
+			".",
+			"",
+			"\\t",
+			"	",
+			"											<div class=\"actions actionsbottom\">",
+			"											<div class=\"actions actions-bottom\">",
+			"\\t",
+			"\"$&\"",
+			"\\n//",
+			"minmaxvalue",
+			"\"$&\":",
+			"$&",
+			"			\"_t\": 				{ name: \"_t\",			",
+			"			\"_t\": 				{ name: \"_t\",		",
+			"			\"_u\": 				{ name: \"_u\",	",
+			"			\"_t\": 				{ name: \"_t\"",
+			"			\"_t\": 			{ name: \"_t\"",
+			"			\"_t\": 		{ name: \"_t\"",
+			",",
+			",\\n",
+			"\\n",
+			"[host",
+			"- $&  ",
+			"$&  ",
+			"$&",
+			"$",
+			"\\t",
+			"\\n",
+			"\\t",
+			"class=\"content content-",
+			"\\t",
+			" \\t",
+			" ",
+			"\\t",
+			"xxx",
+			"...",
+			"\\t",
+			"   ",
+			"@",
+			"#",
+			"@",
+			"#",
+			"\"",
+			"@"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.42864939986,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"modules/workerfactory.coffee"
+			],
+			[
+				"app",
+				"static/js/app/app.coffee"
+			],
+			[
+				"admin",
+				"static/css/admin.styl"
+			],
+			[
+				"tp",
+				"node_modules/mysql/test/simple/test-parser.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 433.0,
+	"status_bar_visible": true
+}

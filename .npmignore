@@ -1,0 +1,16 @@
+$ cat .gitignore
+
+# Gitignore
+
+*.profile
+*.lock
+*.conflict
+*.DS_Store
+
+.project
+.settings
+.externalToolBuilders
+/node_modules/*
+
+.sublime*
+*.db

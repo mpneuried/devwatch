@@ -1,0 +1,56 @@
+{
+  "name": "devwatch",
+  "homepage": "http://mpneuried.github.com/devwatch",
+  "author": {
+    "name": "Mathias Peter",
+    "url": "http://github.com/mpneuried"
+  },
+  "bin": {
+    "devwatch": "./devwatch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpneuried/devwatch.git"
+  },
+  "description": "File-watcher to run any bash script on file changes",
+  "keywords": [
+    "monitor",
+    "watch",
+    "bash",
+    "file",
+    "change",
+    "any",
+    "dev",
+    "development"
+  ],
+  "version": "0.1.0",
+  "preferGlobal": "true",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://rem.mit-license.org"
+    }
+  ],
+  "main": "./devwatch",
+  "_npmUser": {
+    "name": "tcs-de",
+    "email": "github@tcs.de"
+  },
+  "_id": "devwatch@0.0.1",
+  "dependencies": {
+    "growl": "*"   
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_from": ".",
+  "_npmVersion": "1.1.21",
+  "_nodeVersion": "v0.6.18",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "6befcacce77b21d3facaa6a879d579612f104392"
+  }
+}
