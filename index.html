@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Devwatch by mpneuried</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+      <header>
+        <h1>Devwatch</h1>
+        <p>a flexible file watcher to run every bash command you need</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/mpneuried/devwatch" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="downloads">
+          <span>Downloads:</span>
+          <ul>
+            <li><a href="https://github.com/mpneuried/devwatch/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/mpneuried/devwatch/tarball/master" class="button">TAR</a></li>
+          </ul>
+        </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <h1>devwatch</h1>
+
+<h1>Flexible file watcher.</h1>
+
+<p><code>devwatch</code> is a super flexible file watcher. You can watch different files for changes and run a bash command.</p>
+
+<p><strong>Note: This module is only tested on OSX!</strong></p>
+
+<p><em>Written in coffee-script</em></p>
+
+<h1>Install</h1>
+
+<p><strong>Note:</strong> You have to install it global</p>
+
+<div class="highlight">
+<pre>  npm -g install devwatch
+</pre>
+</div>
+
+
+<h2>RUN</h2>
+
+<p><code>devwatch</code> takes at least 2 arguments. But you can add multiple commands.
+On start the module scans the current folder plus subfolders for files matching the given <code>file-regex</code></p>
+
+<pre><code>devwatch 'file-regex' 'command 1' 'command 2' … 'command n'
+</code></pre>
+
+<h3>Arguments:</h3>
+
+<ul>
+<li>
+<code>file-regex</code>: is a regular expression to filter all files under the current folder tree </li>
+<li>
+<code>command</code> is a bash command with will be called from the current folder.</li>
+</ul><h2>Example</h2>
+
+<pre><code>devwatch '.soy$' 'soy2js {NAME} de_de' 'soy2js {NAME} en_us'
+</code></pre>
+
+<p>In this example <code>devwatch</code> searches for files that end with <em>.soy</em>.
+On start and on a file change 2 commands called <code>soy2js</code> with different arguments will be called.</p>
+
+<h2>Replacements</h2>
+
+<p>You can define different variables to be replaced by <code>devwatch</code></p>
+
+<ul>
+<li>
+<code>{PATH}</code>: the path to the watched file <em>( e.g. /my/special/path )</em>
+</li>
+<li>
+<code>{FILE}</code>: the watched file <em>( e.g. mywatchedfile.js )</em>
+</li>
+<li>
+<code>{NAME}</code>: the watched filename <em>( e.g. mywatchedfile )</em>
+</li>
+<li>
+<code>{EXT}</code>: the watched file extension <em>( e.g. js )</em>
+</li>
+</ul><h1>Work in progress</h1>
+
+<p><code>nodecache</code> is work in progress. Your ideas, suggestions etc. are very welcome.</p>
+
+<h1>License</h1>
+
+<p>(The MIT License)</p>
+
+<p>Copyright (c) 2010 TCS &lt;dev (at) tcs.de&gt;</p>
+
+<p>Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:</p>
+
+<p>The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.</p>
+
+<p>THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+      </section>
+      <footer>
+        <p>Project maintained by <a href="https://github.com/mpneuried">mpneuried</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-32491479-3");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
