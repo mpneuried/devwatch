@@ -44,6 +44,10 @@ class DevWatch extends require('events').EventEmitter
 					if stderr.length
 						_error = stderr.replace( /\n/, '' )
 						console.log "ERROR", _error
+						# send a beep
+						`
+						process.stdout.write( '\7' )
+						`
 						growl( "#{ tmplData.name }.#{tmplData.ext}\n" + _error, { title:'DEVWATCH - ERROR', image: imgbasePath + "/terminal_icon_red.png"  })
 					else if stdout.length
 						_info = "info: " + stdout.replace( /\n/, '' ) + "\ncmd: " + cmd

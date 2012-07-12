@@ -34,10 +34,10 @@ devwatch 'file-regex' 'command 1' 'command 2' … 'command n'
 ## Example
 
 ```
-devwatch '.soy' 'soy2js {NAME} de_de' 'soy2js {NAME} en_us'
+devwatch '.soy$' 'soy2js {NAME} de_de' 'soy2js {NAME} en_us'
 ```
 
-In this example `devwatch` searches for files with *.soy* in the filename.
+In this example `devwatch` searches for files that end with *.soy*.
 On start and on a file change 2 commands called `soy2js` with different arguments will be called.
 
 ## Replacements

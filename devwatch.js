@@ -81,6 +81,10 @@ DevWatch = (function(_super) {
         if (stderr.length) {
           _error = stderr.replace(/\n/, '');
           console.log("ERROR", _error);
+          
+						process.stdout.write( '\7' )
+						;
+
           growl(("" + tmplData.name + "." + tmplData.ext + "\n") + _error, {
             title: 'DEVWATCH - ERROR',
             image: imgbasePath + "/terminal_icon_red.png"
