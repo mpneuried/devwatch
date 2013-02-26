@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mpneuried/devwatch.png)](http://travis-ci.org/mpneuried/devwatch)
 devwatch
 ===========
 
